@@ -8,4 +8,5 @@ P1: K nearest neighbor:
 
 P2: Perceptron:
 
-![](https://user-images.githubusercontent.com/25992217/55527221-16c25c00-5666-11e9-81bd-bf4fb715976c.png)
+<img src="https://user-images.githubusercontent.com/25992217/55527221-16c25c00-5666-11e9-81bd-bf4fb715976c.png" width="300" height="300">
+
