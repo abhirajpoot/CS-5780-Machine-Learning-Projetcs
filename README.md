@@ -26,3 +26,7 @@ Random Forest:
 Adaboost:
 
 <img src="https://user-images.githubusercontent.com/25992217/55527639-f09dbb80-5667-11e9-8683-511c7c5477b9.png" width="400" height="300"><img src="https://user-images.githubusercontent.com/25992217/55527641-f1cee880-5667-11e9-87f1-6e30756fff40.png" width="400" height="300">
+
+P8: Neural Network:
+
+<img src="https://user-images.githubusercontent.com/25992217/55527781-81749700-5668-11e9-9176-4633f032b76c.png" width="800" height="300">
