@@ -15,10 +15,14 @@ P4: Gradient descent:
 
 P6: Kernel:
 
-<img src="https://user-images.githubusercontent.com/25992217/55527535-7bca8180-5667-11e9-9288-2c7ec12dbb57.png" width="500" height="300">
+<img src="https://user-images.githubusercontent.com/25992217/55527535-7bca8180-5667-11e9-9288-2c7ec12dbb57.png" width="400" height="300">
 
 P7: CART (Classification And Regression Trees):
 
 Random Forest:
-<img src="https://user-images.githubusercontent.com/25992217/55527630-eda2cb00-5667-11e9-8304-aeb4b454cb7d.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/25992217/55527633-eed3f800-5667-11e9-92d0-82069c180da6.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/25992217/55527639-f09dbb80-5667-11e9-8683-511c7c5477b9.png" width="500" height="300"><img src="https://user-images.githubusercontent.com/25992217/55527641-f1cee880-5667-11e9-87f1-6e30756fff40.png" width="500" height="300">
+
+<img src="https://user-images.githubusercontent.com/25992217/55527630-eda2cb00-5667-11e9-8304-aeb4b454cb7d.png" width="400" height="300"><img src="https://user-images.githubusercontent.com/25992217/55527633-eed3f800-5667-11e9-92d0-82069c180da6.png" width="400" height="300">
+
+Adaboost:
+
+<img src="https://user-images.githubusercontent.com/25992217/55527639-f09dbb80-5667-11e9-8683-511c7c5477b9.png" width="400" height="300"><img src="https://user-images.githubusercontent.com/25992217/55527641-f1cee880-5667-11e9-87f1-6e30756fff40.png" width="400" height="300">
