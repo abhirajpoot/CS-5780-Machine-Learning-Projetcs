@@ -1,4 +1,5 @@
-# CS-5780-Machine-Learning-Projetcs
+CS-5780-Machine-Learning-Projetcs
+======================================
 
 P1: K nearest neighbor:
 ----------------
